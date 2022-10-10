@@ -26,17 +26,17 @@ A large segment of the workforce is looking to retie at Pwelett Hackard. This an
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-- Answer
+- According to the retirement table in Point 2, there are currently 72,458 current employees who are born between January 1, 1952 and December 31, 1955. Pewlett Hackard will have to replace all of these 72,458 employees once they retire. According to the retiring titles in point 3, the majority of these employees are in "Senior Engineer" or "Senior Staff" roles, so we would recommend promoting managers within the company.  
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
  
- - Answer
+ - According to the table in Point 4, there are 1,549 employees born in 1965 who are eligible for the mentorship program. Considering how many employees are retirement-age, this seems like a rather small pool of employees. We would recommend expanding this age range to include all employees born between 1955-1965.
  
-### Additional Query 1: 
+### Additional Query 1: Young Professionals
 
-- A query to find 
+- A query to find young professionals (age 18-30) who are currently employed at Pewlett Hackard. This would allow up to match up the younger employees  with retirement-age professionals for the mentorship program.
 
 
 ### Additional Query 2: Leadership program
 
-- A query to find only the department managers who are eligble for retirement. This would narrow down the employees eligible for the current mentorship program, allowing there to be a "future leaders" mentorship program for young professinals interested in a managerial role. 
+- A query to find only the Senior Engineers and Senior Staff who are eligble for retirement. This would narrow down the retirement-age employees eligible for the mentorship program so only those with managerial experience are included.
