@@ -2,7 +2,7 @@
 
 
 ## Overview of the Pwelett Hackard analysis: 
-A large segment of the workforce is looking to retie at Pwelett Hackard. This analysis will look at employee data to determine the number of retiring employees per job title, and identify employees who are eligible to participate in a mentorship program. 
+A large segment of the workforce is looking to retie at Pewlett Hackard. This analysis will look at employee data to determine the number of retiring employees per job title, and identify employees who are eligible to participate in a mentorship program. 
 
 ## Results: 
 
@@ -26,7 +26,7 @@ A large segment of the workforce is looking to retie at Pwelett Hackard. This an
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-- According to the retirement table in Point 2, there are currently 72,458 current employees who are born between January 1, 1952 and December 31, 1955. Pewlett Hackard will have to replace all of these 72,458 employees once they retire. According to the retiring titles in point 3, the majority of these employees are in "Senior Engineer" or "Senior Staff" roles, so we would recommend promoting managers within the company.  
+- According to the retirement table in Point 2, there are currently 72,458 current employees who are born between January 1, 1952 and December 31, 1955. Pewlett Hackard will have to replace all of these 72,458 employees once they retire. According to the retiring titles in point 3, the majority of these employees are in "Senior Engineer" or "Senior Staff" roles, so we would recommend promoting mid-level managers from within the company.  
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
  
