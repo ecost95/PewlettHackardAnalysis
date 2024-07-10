@@ -13,7 +13,7 @@ A large segment of the workforce is looking to retire at Pewlett Hackard. This a
  
   ![retirement](https://raw.githubusercontent.com/ecost95/PewlettHackardAnalysis/main/Retirement_titles.png)
   
-- Point 2: Next, we excluded duplicate employees (those who recieved a promotion and where listed twice on employee rosters) and employees who had already left the company.
+- Point 2: Next, we excluded duplicate employees (those who received a promotion and where listed twice on employee rosters) and employees who had already left the company.
   ![Unique titles](https://raw.githubusercontent.com/ecost95/PewlettHackardAnalysis/main/Unique_Titles.png)
   
 - Point 3: We created a table to give us an overview count of all retiring employees grouped by job title 
