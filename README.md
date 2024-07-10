@@ -2,7 +2,7 @@
 
 
 ## Overview of the Pwelett Hackard analysis: 
-A large segment of the workforce is looking to retie at Pewlett Hackard. This analysis will look at employee data to determine the number of retiring employees per job title, and identify employees who are eligible to participate in a mentorship program. 
+A large segment of the workforce is looking to retire at Pewlett Hackard. This analysis will look at employee data to determine the number of retiring employees per job title, and identify employees who are eligible to participate in a mentorship program. 
 
 ## Results: 
 
